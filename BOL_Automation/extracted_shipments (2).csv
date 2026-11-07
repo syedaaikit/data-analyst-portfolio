@@ -1,0 +1,3 @@
+Document_Name,Page_Number,Shipper_Name,Consignee_Name,Gross_Weight_KG,Destination_Port,Extracted_Snippet,Processing_Status
+Sample_BOL.pdf,1,ABC Logistics Corp,Global Trade Inc,12500,Karachi Port,Sample 1: Wooden Study Table Type: Single-Level BOM | Product Code: WST-001 | Revision: A | Batch Qty: 1 unit Item # Part Name Description Qty UoM Uni,Successfully Extracted
+Sample_BOL.pdf,2,ABC Logistics Corp,Global Trade Inc,12500,Karachi Port,Sample 2: LED Desk Lamp Type: Multi-Level BOM | Product Code: LDL-100 | Revision: B | Batch Qty: 1 unit Level Item # Part Name Qty UoM Unit Cost (PKR),Successfully Extracted
